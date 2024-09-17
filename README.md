@@ -21,10 +21,10 @@ Bibliotecas Utilizadas
 - Usada para a a criação dos deasfios diários.
 
 3.os 
--Utilizada para manipular arquivos de forma segura no sistema operacional, facilitando o acesso e gerenciamento dos arquivos de agendamento e cadastro de usuários/psicólogos.
+ Utilizada para manipular arquivos de forma segura no sistema operacional, facilitando o acesso e gerenciamento dos arquivos de agendamento e cadastro de usuários/psicólogos.
 
 4.re
--A biblioteca re (expressões regulares) foi usada para validação de dados, como o formato de CPF e CRP, garantindo que os dados sejam inseridos corretamente.
+- A biblioteca re (expressões regulares) foi usada para validação de dados, como o formato de CPF e CRP, garantindo que os dados sejam inseridos corretamente.
 
 Como Executar o Projeto
 
